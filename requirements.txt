@@ -1,0 +1,9 @@
+geopy
+keras
+numpy
+pandas
+Pillow
+Requests
+streamlit
+tensorflow
+tensorflow_hub
